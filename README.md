@@ -3,6 +3,10 @@
 ## Overview
 A web-based Employee Evaluation System developed as a COOP project during training at the Ministry of Human Resources and Social Development (Labor Office - Hail). The system allows customers to rate employees using a five-star rating system, enter their email address, and submit written feedback, while enabling managers to monitor all evaluations and employees to view and respond to their own feedback to improve service quality and transparency.
 
+## Role and Contributions
+- Focused primarily on designing and developing the front-end user interfaces and client-side interactions using HTML, CSS, and JavaScript.
+- Collaborated on integrating the front end with the Node.js back-end and SQLite database, and tested core flows such as login, feedback submission, and evaluation display.
+
 ## Problem Statement and Benefits
 - **Problem Addressed:** Traditional evaluation methods are often time-consuming, unclear, and lack direct customer feedback or employee visibility into feedback.
 - **Key Benefits:**
@@ -28,7 +32,30 @@ A web-based Employee Evaluation System developed as a COOP project during traini
 - **Scope Boundaries:** Focused strictly on employee evaluation and feedback functionalities via web browsers (excludes payroll management, recruitment, and task assignment).
 
 ## System Screenshots
-> Add screenshots of the system interfaces (such as the home page, login page, employee dashboard, and manager dashboard) here after uploading them to the repository.
+
+### 1. Home Page
+![Home Page](Screenshot%202025-12-14%20230120.png)
+
+### 2. Submit Evaluation (Customer View)
+![Submit Assessment](Screenshot%202025-12-14%20225833.png)
+
+### 3. Employee & Manager Login
+![Login Page](Screenshot%202025-12-14%20230034.png)
+
+### 4. Employee Dashboard
+![Employee Dashboard](Screenshot%202025-12-14%20225930.png)
+
+### 5. Reply to Customer Feedback
+![Write Reply Modal](Screenshot%202025-12-14%20230538.png)
+
+### 6. Admin Dashboard – All Feedbacks
+![Admin All Feedbacks](Screenshot%202025-12-21%20212327.png)
+
+### 7. Admin Dashboard – General Reports
+![Admin General Reports](Screenshot%202025-12-21%20211828.png)
+
+### 8. Admin Dashboard – Manage Employees
+![Admin Employees List](Screenshot%202025-12-21%20212302.png)
 
 ## Context Note
 Developed as the COOP project for **Employee Evaluation System** at the **Ministry of Human Resources and Social Development (Labor Office - Hail)**, using sample/placeholder data for demonstration.
